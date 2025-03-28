@@ -1,0 +1,10 @@
+{
+    "dashboard" : "Tableau de bord",
+    "profile" : "Profil",
+    "password" : "Mot de passe",
+    "email" : "Email",
+    "forgot-password" : "Mot de passe oublié ?",
+    "change-password" : "Modifier le mot de passe",
+    "setting" : "Parametre",
+    "settings" : "Parametres"
+}
